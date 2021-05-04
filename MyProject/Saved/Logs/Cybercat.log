@@ -1207,3 +1207,537 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.04-09.06.27:681][152]AssetCheck: New page: Asset Save: Level_Testy
 [2021.05.04-09.06.27:681][152]LogContentValidation: Display: Validating World /Game/Level/Level_Testy.Level_Testy
 [2021.05.04-09.06.28:794][285]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.04-09.10.17:183][  4]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.04-09.10.19:192][230]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.05.04-09.10.21:162][458]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.04-09.11.46:045][401]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor5)
+[2021.05.04-09.12.14:345][655]Cmd: EDIT COPY
+[2021.05.04-09.12.17:006][927]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2021.05.04-09.12.17:015][927]LogContentBrowser: Creating deferred item: NewWorld
+[2021.05.04-09.12.26:932][110]LogContentBrowser: Attempting asset rename: NewWorld -> Level_1_FirstPart
+[2021.05.04-09.12.26:934][110]LogContentBrowser: End creating deferred item NewWorld
+[2021.05.04-09.12.29:060][354]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.05.04-09.12.31:120][354]LogSlate: Window 'Save Content' being destroyed
+[2021.05.04-09.12.31:156][354]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.05.04-09.12.31:159][354]LogSavePackage: Moving '../../../../../../Users/h.simon/Documents/GitHub/Cybercat/MyProject/Saved/Level_1_FirstPart893A93AC4361F4592CC5DA89112D98CF.tmp' to '../../../../../../Users/h.simon/Documents/GitHub/Cybercat/MyProject/Content/Level/Level_1_FirstPart.umap'
+[2021.05.04-09.12.31:160][354]LogFileHelpers: Saving map 'Level_1_FirstPart' took 0.008
+[2021.05.04-09.12.31:181][354]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/Level_1_FirstPart.Level_1_FirstPart
+[2021.05.04-09.12.31:182][354]Cmd: MAP LOAD FILE="../../../../../../Users/h.simon/Documents/GitHub/Cybercat/MyProject/Content/Level/Level_1_FirstPart.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.04-09.12.31:182][354]LightingResults: New page: Lighting Build
+[2021.05.04-09.12.31:182][354]LoadErrors: New page: Loading map: Level_1_FirstPart.umap
+[2021.05.04-09.12.31:184][354]LogWorld: UWorld::CleanupWorld for Level_Testy, bSessionEnded=true, bCleanupResources=true
+[2021.05.04-09.12.31:185][354]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.04-09.12.31:185][354]MapCheck: New page: Map Check
+[2021.05.04-09.12.31:185][354]LightingResults: New page: Lighting Build
+[2021.05.04-09.12.31:189][354]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.04-09.12.31:191][354]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.05.04-09.12.31:194][354]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_1_FirstPart'.
+[2021.05.04-09.12.31:194][354]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.04-09.12.31:194][354]LogAIModule: Creating AISystem for world Level_1_FirstPart
+[2021.05.04-09.12.31:200][354]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.05.04-09.12.31:203][354]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.04-09.12.31:203][354]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,07ms to complete.
+[2021.05.04-09.12.31:203][354]LogFileHelpers: Loading map 'Level_1_FirstPart' took 0.022
+[2021.05.04-09.12.31:214][354]AssetCheck: New page: Asset Save: Level_1_FirstPart
+[2021.05.04-09.12.31:214][354]LogContentValidation: Display: Validating World /Game/Level/Level_1_FirstPart.Level_1_FirstPart
+[2021.05.04-09.12.42:582][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.05.04-09.12.42:649][607]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/Level_Testy.Level_Testy
+[2021.05.04-09.12.42:649][607]Cmd: MAP LOAD FILE="../../../../../../Users/h.simon/Documents/GitHub/Cybercat/MyProject/Content/Level/Level_Testy.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.04-09.12.42:649][607]LightingResults: New page: Lighting Build
+[2021.05.04-09.12.42:649][607]LoadErrors: New page: Loading map: Level_Testy.umap
+[2021.05.04-09.12.42:649][607]LogWorld: UWorld::CleanupWorld for Level_1_FirstPart, bSessionEnded=true, bCleanupResources=true
+[2021.05.04-09.12.42:649][607]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.04-09.12.42:649][607]MapCheck: New page: Map Check
+[2021.05.04-09.12.42:649][607]LightingResults: New page: Lighting Build
+[2021.05.04-09.12.42:655][607]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.04-09.12.42:656][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.05.04-09.12.42:657][607]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_Testy'.
+[2021.05.04-09.12.42:669][607]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.04-09.12.42:669][607]LogAIModule: Creating AISystem for world Level_Testy
+[2021.05.04-09.12.42:678][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.05.04-09.12.42:681][607]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.04-09.12.42:681][607]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,092ms to complete.
+[2021.05.04-09.12.42:681][607]LogFileHelpers: Loading map 'Level_Testy' took 0.032
+[2021.05.04-09.12.43:634][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.05.04-09.12.44:028][704]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/Level_01.Level_01
+[2021.05.04-09.12.44:028][704]Cmd: MAP LOAD FILE="../../../../../../Users/h.simon/Documents/GitHub/Cybercat/MyProject/Content/Level/Level_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.04-09.12.44:028][704]LightingResults: New page: Lighting Build
+[2021.05.04-09.12.44:028][704]LoadErrors: New page: Loading map: Level_01.umap
+[2021.05.04-09.12.44:030][704]LogWorld: UWorld::CleanupWorld for Level_Testy, bSessionEnded=true, bCleanupResources=true
+[2021.05.04-09.12.44:030][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.04-09.12.44:030][704]MapCheck: New page: Map Check
+[2021.05.04-09.12.44:030][704]LightingResults: New page: Lighting Build
+[2021.05.04-09.12.44:036][704]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.04-09.12.44:040][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.05.04-09.12.44:041][704]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_01'.
+[2021.05.04-09.12.44:049][704]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.04-09.12.44:049][704]LogAIModule: Creating AISystem for world Level_01
+[2021.05.04-09.12.44:056][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.05.04-09.12.44:059][704]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.04-09.12.44:060][704]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,07ms to complete.
+[2021.05.04-09.12.44:060][704]LogFileHelpers: Loading map 'Level_01' took 0.031
+[2021.05.04-09.12.49:967][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.05.04-09.12.50:012][380]LogTexture: Display: Building textures: DeprecatedTextureC1866CFF4D79AD66933EBCAE7C741FC8 (BGRA8, 128X128)
+[2021.05.04-09.12.50:020][380]LogAssetEditorSubsystem: Opening Asset editor for World /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap
+[2021.05.04-09.12.50:020][380]Cmd: MAP LOAD FILE="../../../../../../Users/h.simon/Documents/GitHub/Cybercat/MyProject/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.04-09.12.50:020][380]LightingResults: New page: Lighting Build
+[2021.05.04-09.12.50:020][380]LoadErrors: New page: Loading map: SideScrollerExampleMap.umap
+[2021.05.04-09.12.50:056][380]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2021.05.04-09.12.50:056][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.04-09.12.50:056][380]MapCheck: New page: Map Check
+[2021.05.04-09.12.50:056][380]LightingResults: New page: Lighting Build
+[2021.05.04-09.12.50:060][380]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.04-09.12.50:062][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.05.04-09.12.50:064][380]LogAudio: Display: Audio Device (ID: 1) registered with world 'SideScrollerExampleMap'.
+[2021.05.04-09.12.50:068][380]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.04-09.12.50:068][380]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2021.05.04-09.12.50:074][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.05.04-09.12.50:078][380]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.04-09.12.50:078][380]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,073ms to complete.
+[2021.05.04-09.12.50:078][380]LogFileHelpers: Loading map 'SideScrollerExampleMap' took 0.058
+[2021.05.04-09.12.54:424][900]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.04-09.13.09:813][652]Cmd: DELETE
+[2021.05.04-09.13.09:813][652]Cmd: ACTOR DELETE
+[2021.05.04-09.13.09:814][652]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.04-09.13.09:815][652]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.04-09.13.09:815][652]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.04-09.13.09:815][652]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.04-09.13.09:815][652]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.04-09.13.09:815][652]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.04-09.13.09:820][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.05.04-09.13.09:822][652]LogEditorActor: Deleted 6 Actors (0.009 secs)
+[2021.05.04-09.13.11:571][860]Cmd: DELETE
+[2021.05.04-09.13.11:571][860]Cmd: ACTOR DELETE
+[2021.05.04-09.13.11:576][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.05.04-09.13.11:576][860]LogEditorActor: Deleted 0 Actors (0.005 secs)
+[2021.05.04-09.13.13:597][102]Cmd: DELETE
+[2021.05.04-09.13.13:597][102]Cmd: ACTOR DELETE
+[2021.05.04-09.13.13:601][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.05.04-09.13.13:602][102]LogEditorActor: Deleted 0 Actors (0.005 secs)
+[2021.05.04-09.13.18:448][651]Cmd: DELETE
+[2021.05.04-09.13.18:448][651]Cmd: ACTOR DELETE
+[2021.05.04-09.13.18:449][651]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.04-09.13.18:450][651]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.04-09.13.18:450][651]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.04-09.13.18:450][651]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.04-09.13.18:450][651]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.04-09.13.18:450][651]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.04-09.13.18:450][651]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.04-09.13.18:450][651]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.04-09.13.18:451][651]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.04-09.13.18:455][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.05.04-09.13.18:456][651]LogEditorActor: Deleted 9 Actors (0.008 secs)
+[2021.05.04-09.13.25:168][423]Cmd: DELETE
+[2021.05.04-09.13.25:168][423]Cmd: ACTOR DELETE
+[2021.05.04-09.13.25:169][423]LogEditorActor: Deleted Actor: TextRenderActor
+[2021.05.04-09.13.25:174][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.05.04-09.13.25:175][423]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2021.05.04-09.13.33:076][320]Cmd: EDIT COPY
+[2021.05.04-09.13.36:153][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.05.04-09.13.37:543][664]LogSlate: Window 'Save Content' being destroyed
+[2021.05.04-09.13.37:571][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.05.04-09.13.37:585][664]LogSavePackage: Moving '../../../../../../Users/h.simon/Documents/GitHub/Cybercat/MyProject/Saved/SideScrollerExampleMap9CC4D3A146435275201D018848C7E42D.tmp' to '../../../../../../Users/h.simon/Documents/GitHub/Cybercat/MyProject/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2021.05.04-09.13.37:590][664]LogFileHelpers: Saving map 'SideScrollerExampleMap' took 0.024
+[2021.05.04-09.13.37:619][664]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/Level_1_FirstPart.Level_1_FirstPart
+[2021.05.04-09.13.37:619][664]Cmd: MAP LOAD FILE="../../../../../../Users/h.simon/Documents/GitHub/Cybercat/MyProject/Content/Level/Level_1_FirstPart.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.04-09.13.37:620][664]LightingResults: New page: Lighting Build
+[2021.05.04-09.13.37:620][664]LoadErrors: New page: Loading map: Level_1_FirstPart.umap
+[2021.05.04-09.13.37:620][664]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.04-09.13.37:621][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.04-09.13.37:621][664]MapCheck: New page: Map Check
+[2021.05.04-09.13.37:621][664]LightingResults: New page: Lighting Build
+[2021.05.04-09.13.37:625][664]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.04-09.13.37:628][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.05.04-09.13.37:628][664]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_1_FirstPart'.
+[2021.05.04-09.13.37:629][664]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.04-09.13.37:629][664]LogAIModule: Creating AISystem for world Level_1_FirstPart
+[2021.05.04-09.13.37:635][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.05.04-09.13.37:638][664]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.04-09.13.37:638][664]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,062ms to complete.
+[2021.05.04-09.13.37:638][664]LogFileHelpers: Loading map 'Level_1_FirstPart' took 0.018
+[2021.05.04-09.13.37:648][664]AssetCheck: New page: Asset Save: SideScrollerExampleMap
+[2021.05.04-09.13.37:648][664]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap
+[2021.05.04-09.13.37:657][664]LogTexture: Display: Building textures: DeprecatedTextureC1866CFF4D79AD66933EBCAE7C741FC8 (BGRA8, 128X128)
+[2021.05.04-09.13.39:607][896]LogEditorViewport: Clicking Background
+[2021.05.04-09.13.39:782][917]Cmd: EDIT PASTE
+[2021.05.04-09.13.39:799][917]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.05.04-09.13.47:086][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.05.04-09.13.47:992][769]LogSlate: Window 'Save Content' being destroyed
+[2021.05.04-09.13.48:019][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.05.04-09.13.48:027][769]LogSavePackage: Moving '../../../../../../Users/h.simon/Documents/GitHub/Cybercat/MyProject/Saved/Level_1_FirstPartFBA28D9440CB9E0A9DE03D9DA310AB44.tmp' to '../../../../../../Users/h.simon/Documents/GitHub/Cybercat/MyProject/Content/Level/Level_1_FirstPart.umap'
+[2021.05.04-09.13.48:031][769]LogFileHelpers: Saving map 'Level_1_FirstPart' took 0.016
+[2021.05.04-09.13.48:103][769]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/Level_Testy.Level_Testy
+[2021.05.04-09.13.48:104][769]Cmd: MAP LOAD FILE="../../../../../../Users/h.simon/Documents/GitHub/Cybercat/MyProject/Content/Level/Level_Testy.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.04-09.13.48:104][769]LightingResults: New page: Lighting Build
+[2021.05.04-09.13.48:104][769]LoadErrors: New page: Loading map: Level_Testy.umap
+[2021.05.04-09.13.48:141][769]LogWorld: UWorld::CleanupWorld for Level_1_FirstPart, bSessionEnded=true, bCleanupResources=true
+[2021.05.04-09.13.48:141][769]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.04-09.13.48:141][769]MapCheck: New page: Map Check
+[2021.05.04-09.13.48:141][769]LightingResults: New page: Lighting Build
+[2021.05.04-09.13.48:147][769]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.04-09.13.48:149][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.05.04-09.13.48:160][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.05.04-09.13.48:164][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.05.04-09.13.48:165][769]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_Testy'.
+[2021.05.04-09.13.48:177][769]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.04-09.13.48:177][769]LogAIModule: Creating AISystem for world Level_Testy
+[2021.05.04-09.13.48:186][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.05.04-09.13.48:189][769]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.04-09.13.48:189][769]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,092ms to complete.
+[2021.05.04-09.13.48:189][769]LogFileHelpers: Loading map 'Level_Testy' took 0.086
+[2021.05.04-09.13.48:198][769]AssetCheck: New page: Asset Save: Level_1_FirstPart
+[2021.05.04-09.13.48:198][769]LogContentValidation: Display: Validating World /Game/Level/Level_1_FirstPart.Level_1_FirstPart
+[2021.05.04-09.14.24:184][944]Cmd: EDIT COPY
+[2021.05.04-09.14.25:539][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.05.04-09.14.27:040][103]LogSlate: Window 'Save Content' being destroyed
+[2021.05.04-09.14.27:077][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.05.04-09.14.27:132][103]LogSavePackage: Moving '../../../../../../Users/h.simon/Documents/GitHub/Cybercat/MyProject/Saved/Level_Testy1A6AE17543556C317D147B97A83C6E9F.tmp' to '../../../../../../Users/h.simon/Documents/GitHub/Cybercat/MyProject/Content/Level/Level_Testy.umap'
+[2021.05.04-09.14.27:137][103]LogFileHelpers: Saving map 'Level_Testy' took 0.066
+[2021.05.04-09.14.27:170][103]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/Level_1_FirstPart.Level_1_FirstPart
+[2021.05.04-09.14.27:170][103]Cmd: MAP LOAD FILE="../../../../../../Users/h.simon/Documents/GitHub/Cybercat/MyProject/Content/Level/Level_1_FirstPart.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.04-09.14.27:170][103]LightingResults: New page: Lighting Build
+[2021.05.04-09.14.27:171][103]LoadErrors: New page: Loading map: Level_1_FirstPart.umap
+[2021.05.04-09.14.27:211][103]LogWorld: UWorld::CleanupWorld for Level_Testy, bSessionEnded=true, bCleanupResources=true
+[2021.05.04-09.14.27:211][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.04-09.14.27:211][103]MapCheck: New page: Map Check
+[2021.05.04-09.14.27:211][103]LightingResults: New page: Lighting Build
+[2021.05.04-09.14.27:215][103]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.04-09.14.27:218][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.05.04-09.14.27:218][103]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_1_FirstPart'.
+[2021.05.04-09.14.27:221][103]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.04-09.14.27:221][103]LogAIModule: Creating AISystem for world Level_1_FirstPart
+[2021.05.04-09.14.27:227][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.05.04-09.14.27:230][103]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.04-09.14.27:231][103]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,08ms to complete.
+[2021.05.04-09.14.27:231][103]LogFileHelpers: Loading map 'Level_1_FirstPart' took 0.060
+[2021.05.04-09.14.27:240][103]AssetCheck: New page: Asset Save: Level_Testy
+[2021.05.04-09.14.27:240][103]LogContentValidation: Display: Validating World /Game/Level/Level_Testy.Level_Testy
+[2021.05.04-09.14.29:257][335]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.04-09.14.29:750][392]Cmd: EDIT PASTE
+[2021.05.04-09.14.29:794][392]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.05.04-09.14.29:802][392]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.05.04-09.14.32:985][750]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.04-09.14.51:726][941]Cmd: DELETE
+[2021.05.04-09.14.51:726][941]Cmd: ACTOR DELETE
+[2021.05.04-09.14.51:728][941]LogEditorActor: Deleted Actor: SideScrollerCharacter_C
+[2021.05.04-09.14.51:746][941]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.05.04-09.14.51:747][941]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2021.05.04-09.14.54:376][252]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2021.05.04-09.15.03:317][285]Cmd: TRANSACTION UNDO
+[2021.05.04-09.15.03:317][285]LogEditorTransaction: Undo Clicking on Actors
+[2021.05.04-09.15.03:793][299]Cmd: TRANSACTION UNDO
+[2021.05.04-09.15.03:793][299]LogEditorTransaction: Undo Delete Actors
+[2021.05.04-09.15.04:223][337]Cmd: TRANSACTION UNDO
+[2021.05.04-09.15.04:223][337]LogEditorTransaction: Undo Clicking on Actors
+[2021.05.04-09.15.04:636][374]Cmd: TRANSACTION UNDO
+[2021.05.04-09.15.04:636][374]LogEditorTransaction: Undo Clicking on Actors
+[2021.05.04-09.15.05:015][418]Cmd: TRANSACTION UNDO
+[2021.05.04-09.15.05:015][418]LogEditorTransaction: Undo Clicking on Actors
+[2021.05.04-09.15.05:399][456]Cmd: TRANSACTION UNDO
+[2021.05.04-09.15.05:399][456]LogEditorTransaction: Undo Clicking on Actors
+[2021.05.04-09.15.05:791][499]Cmd: TRANSACTION UNDO
+[2021.05.04-09.15.05:791][499]LogEditorTransaction: Undo Clicking on Actors
+[2021.05.04-09.15.06:213][545]Cmd: TRANSACTION UNDO
+[2021.05.04-09.15.06:213][545]LogEditorTransaction: Undo Paste
+[2021.05.04-09.15.07:461][661]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.04-09.15.11:574][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.05.04-09.15.13:774][309]LogContentBrowser: Deferred new asset file creation: Level_1_FirstPart1
+[2021.05.04-09.15.13:782][309]LogContentBrowser: Creating deferred item: Level_1_FirstPart1
+[2021.05.04-09.15.33:452][660]LogContentBrowser: Attempting asset rename: Level_1_FirstPart1 -> Level_1_SecondPart
+[2021.05.04-09.15.33:472][660]LogContentBrowser: End creating deferred item Level_1_FirstPart1
+[2021.05.04-09.15.36:695][999]LogContentBrowser: Deferred new asset file creation: Level_1_SecondPart1
+[2021.05.04-09.15.36:703][999]LogContentBrowser: Creating deferred item: Level_1_SecondPart1
+[2021.05.04-09.15.46:535][146]LogContentBrowser: Attempting asset rename: Level_1_SecondPart1 -> Level_1_ThirdPArt
+[2021.05.04-09.15.46:562][146]LogContentBrowser: End creating deferred item Level_1_SecondPart1
+[2021.05.04-09.15.50:754][639]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.04-09.15.52:204][812]Cmd: EDIT PASTE
+[2021.05.04-09.15.52:249][812]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.05.04-09.15.55:838][220]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.05.04-09.15.55:870][220]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.05.04-09.15.55:889][220]LogSavePackage: Moving '../../../../../../Users/h.simon/Documents/GitHub/Cybercat/MyProject/Saved/Level_1_FirstPartEFBA586245994C91F60DFFA64915DDA8.tmp' to '../../../../../../Users/h.simon/Documents/GitHub/Cybercat/MyProject/Content/Level/Level_1_FirstPart.umap'
+[2021.05.04-09.15.55:894][220]LogFileHelpers: Saving map 'Level_1_FirstPart' took 0.029
+[2021.05.04-09.15.55:902][220]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.05.04-09.15.55:909][220]LogSavePackage: Moving '../../../../../../Users/h.simon/Documents/GitHub/Cybercat/MyProject/Saved/Level_1_SecondPart142AA1914E55245345765090CAE503FE.tmp' to '../../../../../../Users/h.simon/Documents/GitHub/Cybercat/MyProject/Content/Level/Level_1_SecondPart.umap'
+[2021.05.04-09.15.55:911][220]LogFileHelpers: Saving map 'Level_1_SecondPart' took 0.016
+[2021.05.04-09.15.55:918][220]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.05.04-09.15.55:926][220]LogSavePackage: Moving '../../../../../../Users/h.simon/Documents/GitHub/Cybercat/MyProject/Saved/Level_1_ThirdPArt06BC598F4ABD95932C777DB4B3B92500.tmp' to '../../../../../../Users/h.simon/Documents/GitHub/Cybercat/MyProject/Content/Level/Level_1_ThirdPArt.umap'
+[2021.05.04-09.15.55:927][220]LogFileHelpers: Saving map 'Level_1_ThirdPArt' took 0.017
+[2021.05.04-09.15.55:937][220]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.04-09.15.55:937][220]LogContentValidation: Display: Validating World /Game/Level/Level_1_FirstPart.Level_1_FirstPart
+[2021.05.04-09.15.55:937][220]LogContentValidation: Display: Validating World /Game/Level/Level_1_ThirdPArt.Level_1_ThirdPArt
+[2021.05.04-09.15.55:937][220]LogContentValidation: Display: Validating World /Game/Level/Level_1_SecondPart.Level_1_SecondPart
+[2021.05.04-09.16.02:821][ 10]Cmd: DELETE
+[2021.05.04-09.16.02:821][ 10]Cmd: ACTOR DELETE
+[2021.05.04-09.16.02:824][ 10]LogEditorActor: Deleted Actor: SideScrollerCharacter_C
+[2021.05.04-09.16.02:834][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.05.04-09.16.02:835][ 10]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.05.04-09.16.05:484][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.05.04-09.16.05:517][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.05.04-09.16.05:536][314]LogSavePackage: Moving '../../../../../../Users/h.simon/Documents/GitHub/Cybercat/MyProject/Saved/Level_1_FirstPart5BA86B76414D7815BE149081E97D02A2.tmp' to '../../../../../../Users/h.simon/Documents/GitHub/Cybercat/MyProject/Content/Level/Level_1_FirstPart.umap'
+[2021.05.04-09.16.05:540][314]LogFileHelpers: Saving map 'Level_1_FirstPart' took 0.028
+[2021.05.04-09.16.05:547][314]AssetCheck: New page: Asset Save: Level_1_FirstPart
+[2021.05.04-09.16.05:547][314]LogContentValidation: Display: Validating World /Game/Level/Level_1_FirstPart.Level_1_FirstPart
+[2021.05.04-09.16.09:212][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.05.04-09.16.09:245][745]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/Level_1_SecondPart.Level_1_SecondPart
+[2021.05.04-09.16.09:246][745]Cmd: MAP LOAD FILE="../../../../../../Users/h.simon/Documents/GitHub/Cybercat/MyProject/Content/Level/Level_1_SecondPart.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.04-09.16.09:246][745]LightingResults: New page: Lighting Build
+[2021.05.04-09.16.09:246][745]LoadErrors: New page: Loading map: Level_1_SecondPart.umap
+[2021.05.04-09.16.09:281][745]LogWorld: UWorld::CleanupWorld for Level_1_FirstPart, bSessionEnded=true, bCleanupResources=true
+[2021.05.04-09.16.09:281][745]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.04-09.16.09:282][745]MapCheck: New page: Map Check
+[2021.05.04-09.16.09:282][745]LightingResults: New page: Lighting Build
+[2021.05.04-09.16.09:286][745]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.04-09.16.09:288][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.05.04-09.16.09:294][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.05.04-09.16.09:304][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.05.04-09.16.09:309][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.05.04-09.16.09:309][745]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_1_SecondPart'.
+[2021.05.04-09.16.09:311][745]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.04-09.16.09:311][745]LogAIModule: Creating AISystem for world Level_1_SecondPart
+[2021.05.04-09.16.09:318][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.05.04-09.16.09:321][745]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.04-09.16.09:321][745]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,065ms to complete.
+[2021.05.04-09.16.09:321][745]LogFileHelpers: Loading map 'Level_1_SecondPart' took 0.075
+[2021.05.04-09.16.12:294][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.05.04-09.16.12:345][ 83]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/Level_Testy.Level_Testy
+[2021.05.04-09.16.12:345][ 83]Cmd: MAP LOAD FILE="../../../../../../Users/h.simon/Documents/GitHub/Cybercat/MyProject/Content/Level/Level_Testy.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.04-09.16.12:345][ 83]LightingResults: New page: Lighting Build
+[2021.05.04-09.16.12:345][ 83]LoadErrors: New page: Loading map: Level_Testy.umap
+[2021.05.04-09.16.12:380][ 83]LogWorld: UWorld::CleanupWorld for Level_1_SecondPart, bSessionEnded=true, bCleanupResources=true
+[2021.05.04-09.16.12:380][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.04-09.16.12:380][ 83]MapCheck: New page: Map Check
+[2021.05.04-09.16.12:380][ 83]LightingResults: New page: Lighting Build
+[2021.05.04-09.16.12:386][ 83]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.04-09.16.12:387][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.05.04-09.16.12:388][ 83]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_Testy'.
+[2021.05.04-09.16.12:400][ 83]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.04-09.16.12:400][ 83]LogAIModule: Creating AISystem for world Level_Testy
+[2021.05.04-09.16.12:409][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.05.04-09.16.12:412][ 83]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.04-09.16.12:412][ 83]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,097ms to complete.
+[2021.05.04-09.16.12:412][ 83]LogFileHelpers: Loading map 'Level_Testy' took 0.068
+[2021.05.04-09.16.49:986][518]Cmd: EDIT COPY
+[2021.05.04-09.16.51:752][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.05.04-09.16.51:804][723]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/Level_1_SecondPart.Level_1_SecondPart
+[2021.05.04-09.16.51:804][723]Cmd: MAP LOAD FILE="../../../../../../Users/h.simon/Documents/GitHub/Cybercat/MyProject/Content/Level/Level_1_SecondPart.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.04-09.16.51:804][723]LightingResults: New page: Lighting Build
+[2021.05.04-09.16.51:804][723]LoadErrors: New page: Loading map: Level_1_SecondPart.umap
+[2021.05.04-09.16.51:828][723]LogWorld: UWorld::CleanupWorld for Level_Testy, bSessionEnded=true, bCleanupResources=true
+[2021.05.04-09.16.51:828][723]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.04-09.16.51:828][723]MapCheck: New page: Map Check
+[2021.05.04-09.16.51:828][723]LightingResults: New page: Lighting Build
+[2021.05.04-09.16.51:833][723]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.04-09.16.51:837][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.05.04-09.16.51:837][723]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_1_SecondPart'.
+[2021.05.04-09.16.51:839][723]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.04-09.16.51:839][723]LogAIModule: Creating AISystem for world Level_1_SecondPart
+[2021.05.04-09.16.51:845][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.05.04-09.16.51:848][723]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.04-09.16.51:849][723]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,067ms to complete.
+[2021.05.04-09.16.51:849][723]LogFileHelpers: Loading map 'Level_1_SecondPart' took 0.045
+[2021.05.04-09.16.53:297][892]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2021.05.04-09.16.53:959][964]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.04-09.16.55:076][ 95]Cmd: EDIT PASTE
+[2021.05.04-09.17.00:636][731]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2021.05.04-09.17.04:527][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.05.04-09.17.04:552][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.05.04-09.17.04:591][169]LogSavePackage: Moving '../../../../../../Users/h.simon/Documents/GitHub/Cybercat/MyProject/Saved/Level_1_SecondPartCC77BAFC4AC7EAEB56233A872E12258E.tmp' to '../../../../../../Users/h.simon/Documents/GitHub/Cybercat/MyProject/Content/Level/Level_1_SecondPart.umap'
+[2021.05.04-09.17.04:596][169]LogFileHelpers: Saving map 'Level_1_SecondPart' took 0.049
+[2021.05.04-09.17.04:603][169]AssetCheck: New page: Asset Save: Level_1_SecondPart
+[2021.05.04-09.17.04:603][169]LogContentValidation: Display: Validating World /Game/Level/Level_1_SecondPart.Level_1_SecondPart
+[2021.05.04-09.17.05:774][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.05.04-09.17.05:832][304]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/Level_Testy.Level_Testy
+[2021.05.04-09.17.05:832][304]Cmd: MAP LOAD FILE="../../../../../../Users/h.simon/Documents/GitHub/Cybercat/MyProject/Content/Level/Level_Testy.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.04-09.17.05:832][304]LightingResults: New page: Lighting Build
+[2021.05.04-09.17.05:832][304]LoadErrors: New page: Loading map: Level_Testy.umap
+[2021.05.04-09.17.05:864][304]LogWorld: UWorld::CleanupWorld for Level_1_SecondPart, bSessionEnded=true, bCleanupResources=true
+[2021.05.04-09.17.05:864][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.04-09.17.05:864][304]MapCheck: New page: Map Check
+[2021.05.04-09.17.05:864][304]LightingResults: New page: Lighting Build
+[2021.05.04-09.17.05:871][304]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.04-09.17.05:874][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.05.04-09.17.05:875][304]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_Testy'.
+[2021.05.04-09.17.05:887][304]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.04-09.17.05:887][304]LogAIModule: Creating AISystem for world Level_Testy
+[2021.05.04-09.17.05:895][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.05.04-09.17.05:898][304]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.04-09.17.05:899][304]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,085ms to complete.
+[2021.05.04-09.17.05:899][304]LogFileHelpers: Loading map 'Level_Testy' took 0.067
+[2021.05.04-09.17.24:339][479]LogEditorViewport: Clicking Background
+[2021.05.04-09.17.38:181][120]LogEditorViewport: Clicking Background
+[2021.05.04-09.17.45:487][975]Cmd: EDIT COPY
+[2021.05.04-09.17.48:963][389]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.05.04-09.17.50:124][389]LogSlate: Window 'Save Content' being destroyed
+[2021.05.04-09.17.50:168][389]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.05.04-09.17.50:225][389]LogSavePackage: Moving '../../../../../../Users/h.simon/Documents/GitHub/Cybercat/MyProject/Saved/Level_Testy8D7825374383F4380094B0ABAB2EA3F0.tmp' to '../../../../../../Users/h.simon/Documents/GitHub/Cybercat/MyProject/Content/Level/Level_Testy.umap'
+[2021.05.04-09.17.50:230][389]LogFileHelpers: Saving map 'Level_Testy' took 0.067
+[2021.05.04-09.17.50:272][389]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/Level_1_ThirdPArt.Level_1_ThirdPArt
+[2021.05.04-09.17.50:272][389]Cmd: MAP LOAD FILE="../../../../../../Users/h.simon/Documents/GitHub/Cybercat/MyProject/Content/Level/Level_1_ThirdPArt.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.04-09.17.50:272][389]LightingResults: New page: Lighting Build
+[2021.05.04-09.17.50:272][389]LoadErrors: New page: Loading map: Level_1_ThirdPArt.umap
+[2021.05.04-09.17.50:311][389]LogWorld: UWorld::CleanupWorld for Level_Testy, bSessionEnded=true, bCleanupResources=true
+[2021.05.04-09.17.50:312][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.04-09.17.50:312][389]MapCheck: New page: Map Check
+[2021.05.04-09.17.50:312][389]LightingResults: New page: Lighting Build
+[2021.05.04-09.17.50:316][389]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.04-09.17.50:320][389]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.05.04-09.17.50:322][389]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_1_ThirdPArt'.
+[2021.05.04-09.17.50:324][389]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.04-09.17.50:324][389]LogAIModule: Creating AISystem for world Level_1_ThirdPArt
+[2021.05.04-09.17.50:330][389]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.05.04-09.17.50:333][389]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.04-09.17.50:333][389]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,069ms to complete.
+[2021.05.04-09.17.50:334][389]LogFileHelpers: Loading map 'Level_1_ThirdPArt' took 0.062
+[2021.05.04-09.17.50:344][389]AssetCheck: New page: Asset Save: Level_Testy
+[2021.05.04-09.17.50:344][389]LogContentValidation: Display: Validating World /Game/Level/Level_Testy.Level_Testy
+[2021.05.04-09.17.51:499][520]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.04-09.17.52:227][605]Cmd: EDIT PASTE
+[2021.05.04-09.17.54:376][846]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.04-09.17.57:605][227]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2021.05.04-09.18.04:461][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.05.04-09.18.05:533][ 12]LogSlate: Window 'Save Content' being destroyed
+[2021.05.04-09.18.05:570][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.05.04-09.18.05:585][ 12]LogSavePackage: Moving '../../../../../../Users/h.simon/Documents/GitHub/Cybercat/MyProject/Saved/Level_1_ThirdPArtF2B0F2B6441BDA291751EF973EE3EDDC.tmp' to '../../../../../../Users/h.simon/Documents/GitHub/Cybercat/MyProject/Content/Level/Level_1_ThirdPArt.umap'
+[2021.05.04-09.18.05:589][ 12]LogFileHelpers: Saving map 'Level_1_ThirdPArt' took 0.023
+[2021.05.04-09.18.05:617][ 12]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/Level_Testy.Level_Testy
+[2021.05.04-09.18.05:617][ 12]Cmd: MAP LOAD FILE="../../../../../../Users/h.simon/Documents/GitHub/Cybercat/MyProject/Content/Level/Level_Testy.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.04-09.18.05:617][ 12]LightingResults: New page: Lighting Build
+[2021.05.04-09.18.05:617][ 12]LoadErrors: New page: Loading map: Level_Testy.umap
+[2021.05.04-09.18.05:647][ 12]LogWorld: UWorld::CleanupWorld for Level_1_ThirdPArt, bSessionEnded=true, bCleanupResources=true
+[2021.05.04-09.18.05:647][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.04-09.18.05:647][ 12]MapCheck: New page: Map Check
+[2021.05.04-09.18.05:647][ 12]LightingResults: New page: Lighting Build
+[2021.05.04-09.18.05:652][ 12]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.04-09.18.05:654][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.05.04-09.18.05:654][ 12]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_Testy'.
+[2021.05.04-09.18.05:667][ 12]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.04-09.18.05:667][ 12]LogAIModule: Creating AISystem for world Level_Testy
+[2021.05.04-09.18.05:676][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.05.04-09.18.05:680][ 12]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.04-09.18.05:680][ 12]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,102ms to complete.
+[2021.05.04-09.18.05:680][ 12]LogFileHelpers: Loading map 'Level_Testy' took 0.063
+[2021.05.04-09.18.05:689][ 12]AssetCheck: New page: Asset Save: Level_1_ThirdPArt
+[2021.05.04-09.18.05:689][ 12]LogContentValidation: Display: Validating World /Game/Level/Level_1_ThirdPArt.Level_1_ThirdPArt
+[2021.05.04-09.18.09:139][414]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2021.05.04-09.18.12:404][792]Cmd: EDIT COPY
+[2021.05.04-09.18.14:181][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.05.04-09.18.14:236][  1]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/Level_1_FirstPart.Level_1_FirstPart
+[2021.05.04-09.18.14:236][  1]Cmd: MAP LOAD FILE="../../../../../../Users/h.simon/Documents/GitHub/Cybercat/MyProject/Content/Level/Level_1_FirstPart.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.04-09.18.14:236][  1]LightingResults: New page: Lighting Build
+[2021.05.04-09.18.14:236][  1]LoadErrors: New page: Loading map: Level_1_FirstPart.umap
+[2021.05.04-09.18.14:265][  1]LogWorld: UWorld::CleanupWorld for Level_Testy, bSessionEnded=true, bCleanupResources=true
+[2021.05.04-09.18.14:265][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.04-09.18.14:265][  1]MapCheck: New page: Map Check
+[2021.05.04-09.18.14:265][  1]LightingResults: New page: Lighting Build
+[2021.05.04-09.18.14:271][  1]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.04-09.18.14:274][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.05.04-09.18.14:283][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.05.04-09.18.14:287][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.05.04-09.18.14:287][  1]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_1_FirstPart'.
+[2021.05.04-09.18.14:291][  1]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.04-09.18.14:291][  1]LogAIModule: Creating AISystem for world Level_1_FirstPart
+[2021.05.04-09.18.14:298][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.05.04-09.18.14:301][  1]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.04-09.18.14:301][  1]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,07ms to complete.
+[2021.05.04-09.18.14:301][  1]LogFileHelpers: Loading map 'Level_1_FirstPart' took 0.066
+[2021.05.04-09.18.15:737][163]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2021.05.04-09.18.17:940][417]Cmd: DELETE
+[2021.05.04-09.18.17:940][417]Cmd: ACTOR DELETE
+[2021.05.04-09.18.17:941][417]LogEditorActor: Deleted Actor: LightmassImportanceVolume
+[2021.05.04-09.18.17:946][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.05.04-09.18.17:947][417]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2021.05.04-09.18.18:637][499]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2021.05.04-09.18.18:940][530]Cmd: DELETE
+[2021.05.04-09.18.18:940][530]Cmd: ACTOR DELETE
+[2021.05.04-09.18.18:942][530]LogEditorActor: Deleted Actor: PostProcessVolume
+[2021.05.04-09.18.18:947][530]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.05.04-09.18.18:948][530]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2021.05.04-09.18.19:707][621]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2021.05.04-09.18.20:085][663]Cmd: EDIT PASTE
+[2021.05.04-09.18.22:146][904]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.05.04-09.18.22:944][904]LogSlate: Window 'Save Content' being destroyed
+[2021.05.04-09.18.22:982][904]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.05.04-09.18.23:003][904]LogSavePackage: Moving '../../../../../../Users/h.simon/Documents/GitHub/Cybercat/MyProject/Saved/Level_1_FirstPartB5B6AB7F4D7B9A778964B5ABC5941C2B.tmp' to '../../../../../../Users/h.simon/Documents/GitHub/Cybercat/MyProject/Content/Level/Level_1_FirstPart.umap'
+[2021.05.04-09.18.23:008][904]LogFileHelpers: Saving map 'Level_1_FirstPart' took 0.030
+[2021.05.04-09.18.23:056][904]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/Level_1_SecondPart.Level_1_SecondPart
+[2021.05.04-09.18.23:056][904]Cmd: MAP LOAD FILE="../../../../../../Users/h.simon/Documents/GitHub/Cybercat/MyProject/Content/Level/Level_1_SecondPart.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.04-09.18.23:056][904]LightingResults: New page: Lighting Build
+[2021.05.04-09.18.23:056][904]LoadErrors: New page: Loading map: Level_1_SecondPart.umap
+[2021.05.04-09.18.23:057][904]LogWorld: UWorld::CleanupWorld for Level_1_FirstPart, bSessionEnded=true, bCleanupResources=true
+[2021.05.04-09.18.23:057][904]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.04-09.18.23:057][904]MapCheck: New page: Map Check
+[2021.05.04-09.18.23:057][904]LightingResults: New page: Lighting Build
+[2021.05.04-09.18.23:062][904]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.04-09.18.23:064][904]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.05.04-09.18.23:066][904]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_1_SecondPart'.
+[2021.05.04-09.18.23:075][904]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.04-09.18.23:075][904]LogAIModule: Creating AISystem for world Level_1_SecondPart
+[2021.05.04-09.18.23:083][904]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.05.04-09.18.23:086][904]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.04-09.18.23:086][904]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,082ms to complete.
+[2021.05.04-09.18.23:086][904]LogFileHelpers: Loading map 'Level_1_SecondPart' took 0.030
+[2021.05.04-09.18.23:096][904]AssetCheck: New page: Asset Save: Level_1_FirstPart
+[2021.05.04-09.18.23:096][904]LogContentValidation: Display: Validating World /Game/Level/Level_1_FirstPart.Level_1_FirstPart
+[2021.05.04-09.18.24:284][ 40]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2021.05.04-09.18.24:967][116]Cmd: DELETE
+[2021.05.04-09.18.24:967][116]Cmd: ACTOR DELETE
+[2021.05.04-09.18.24:971][116]LogEditorActor: Deleted Actor: PostProcessVolume
+[2021.05.04-09.18.24:977][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.05.04-09.18.24:977][116]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2021.05.04-09.18.25:669][199]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2021.05.04-09.18.25:840][216]Cmd: DELETE
+[2021.05.04-09.18.25:840][216]Cmd: ACTOR DELETE
+[2021.05.04-09.18.25:844][216]LogEditorActor: Deleted Actor: LightmassImportanceVolume
+[2021.05.04-09.18.25:848][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.05.04-09.18.25:849][216]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2021.05.04-09.18.26:808][331]Cmd: EDIT PASTE
+[2021.05.04-09.18.28:851][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.05.04-09.18.29:699][569]LogSlate: Window 'Save Content' being destroyed
+[2021.05.04-09.18.29:730][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.05.04-09.18.29:774][569]LogSavePackage: Moving '../../../../../../Users/h.simon/Documents/GitHub/Cybercat/MyProject/Saved/Level_1_SecondPartB6D0A8C24E52147074459D8BBD9C405F.tmp' to '../../../../../../Users/h.simon/Documents/GitHub/Cybercat/MyProject/Content/Level/Level_1_SecondPart.umap'
+[2021.05.04-09.18.29:779][569]LogFileHelpers: Saving map 'Level_1_SecondPart' took 0.053
+[2021.05.04-09.18.29:830][569]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/Level_1_ThirdPArt.Level_1_ThirdPArt
+[2021.05.04-09.18.29:830][569]Cmd: MAP LOAD FILE="../../../../../../Users/h.simon/Documents/GitHub/Cybercat/MyProject/Content/Level/Level_1_ThirdPArt.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.04-09.18.29:830][569]LightingResults: New page: Lighting Build
+[2021.05.04-09.18.29:830][569]LoadErrors: New page: Loading map: Level_1_ThirdPArt.umap
+[2021.05.04-09.18.29:870][569]LogWorld: UWorld::CleanupWorld for Level_1_SecondPart, bSessionEnded=true, bCleanupResources=true
+[2021.05.04-09.18.29:870][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.04-09.18.29:870][569]MapCheck: New page: Map Check
+[2021.05.04-09.18.29:870][569]LightingResults: New page: Lighting Build
+[2021.05.04-09.18.29:876][569]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.04-09.18.29:879][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.05.04-09.18.29:888][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.05.04-09.18.29:893][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.05.04-09.18.29:894][569]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_1_ThirdPArt'.
+[2021.05.04-09.18.29:897][569]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.04-09.18.29:897][569]LogAIModule: Creating AISystem for world Level_1_ThirdPArt
+[2021.05.04-09.18.29:904][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.05.04-09.18.29:907][569]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.04-09.18.29:907][569]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,07ms to complete.
+[2021.05.04-09.18.29:907][569]LogFileHelpers: Loading map 'Level_1_ThirdPArt' took 0.076
+[2021.05.04-09.18.29:922][569]AssetCheck: New page: Asset Save: Level_1_SecondPart
+[2021.05.04-09.18.29:922][569]LogContentValidation: Display: Validating World /Game/Level/Level_1_SecondPart.Level_1_SecondPart
+[2021.05.04-09.18.30:865][675]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2021.05.04-09.18.31:525][749]Cmd: DELETE
+[2021.05.04-09.18.31:525][749]Cmd: ACTOR DELETE
+[2021.05.04-09.18.31:526][749]LogEditorActor: Deleted Actor: PostProcessVolume
+[2021.05.04-09.18.31:532][749]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.05.04-09.18.31:533][749]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2021.05.04-09.18.32:010][806]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2021.05.04-09.18.32:343][843]Cmd: DELETE
+[2021.05.04-09.18.32:343][843]Cmd: ACTOR DELETE
+[2021.05.04-09.18.32:344][843]LogEditorActor: Deleted Actor: LightmassImportanceVolume
+[2021.05.04-09.18.32:349][843]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.05.04-09.18.32:350][843]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2021.05.04-09.18.33:182][943]Cmd: EDIT PASTE
+[2021.05.04-09.18.36:721][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.05.04-09.18.36:748][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.05.04-09.18.36:764][344]LogSavePackage: Moving '../../../../../../Users/h.simon/Documents/GitHub/Cybercat/MyProject/Saved/Level_1_ThirdPArt05D82A2641466C920685438940414A16.tmp' to '../../../../../../Users/h.simon/Documents/GitHub/Cybercat/MyProject/Content/Level/Level_1_ThirdPArt.umap'
+[2021.05.04-09.18.36:768][344]LogFileHelpers: Saving map 'Level_1_ThirdPArt' took 0.025
+[2021.05.04-09.18.36:776][344]AssetCheck: New page: Asset Save: Level_1_ThirdPArt
+[2021.05.04-09.18.36:777][344]LogContentValidation: Display: Validating World /Game/Level/Level_1_ThirdPArt.Level_1_ThirdPArt
+[2021.05.04-09.18.39:352][644]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2021.05.04-09.18.41:113][847]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2021.05.04-09.18.43:447][108]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.05.04-09.18.44:633][246]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2021.05.04-09.18.52:461][156]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
